@@ -10,7 +10,7 @@ author: '@everyone'
 
 Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository ini dibuat untuk membantu _Researcher_/Mahasiswa yang sedang membuat tugas akhir atau penelitian tentang pemrosesan bahasa alami yang menggunakan Bahasa Indonesia.
 
-## Dataset
+# Dataset
 Dikelompokkan berdasarkan _task_ NLP
 
 ### NER (Name Entity Recognition)
@@ -35,7 +35,7 @@ Dikelompokkan berdasarkan _task_ NLP
 - Kamus Alay (Slang words dictionary) [[Link]](https://github.com/okkyibrohim/id-abusive-language-detection/blob/master/kamusalay.csv)
 
 
-## Language Model
+# Language Model
 - indoBERT [[Link]](https://huggingface.co/indobenchmark) [[Paper]](https://arxiv.org/abs/2009.05387)
 
-## Other
+# Other
