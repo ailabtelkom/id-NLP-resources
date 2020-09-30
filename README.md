@@ -38,4 +38,14 @@ Dikelompokkan berdasarkan _task_ NLP
 # Language Model
 - indoBERT [[Link]](https://huggingface.co/indobenchmark) [[Paper]](https://arxiv.org/abs/2009.05387)
 
+# Stemming Library in Any Language
+
+- Python [[Link]](https://github.com/har07/PySastrawi)
+- Javascript [[Link]](https://github.com/damzaky/sastrawijs)
+- PHP [[Link]](https://github.com/sastrawi/sastrawi)
+- Go [[Link]](https://github.com/RadhiFadlillah/go-sastrawi)
+- Java [[Link]](https://github.com/jsastrawi/jsastrawi)
+- C [[Link]](https://github.com/mohangk/c_sastrawi)
+- Ruby [[Link]](https://github.com/meisyal/sastrawi-ruby)
+
 # Other
