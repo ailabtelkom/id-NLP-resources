@@ -31,9 +31,9 @@ Dikelompokkan berdasarkan _task_ NLP
 
 ### Other
 - Hate Speech and Abusive Language [[Link]](https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection) [[Paper]](https://www.aclweb.org/anthology/W19-3506.pdf)
+- Hate Speech Detection Indonesia [[Link]](https://github.com/ialfina/id-hatespeech-detection/blob/master/IDHSD_RIO_unbalanced_713_2017.txt) [[Paper]](https://www.researchgate.net/publication/320131169_Hate_Speech_Detection_in_the_Indonesian_Language_A_Dataset_and_Preliminary_Study)
 - Abusive language [[Link]](https://github.com/okkyibrohim/id-abusive-language-detection) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050918314583)
 - Kamus Alay (Slang words dictionary) [[Link]](https://github.com/okkyibrohim/id-abusive-language-detection/blob/master/kamusalay.csv)
-
 
 # Language Model
 - indoBERT [[Link]](https://huggingface.co/indobenchmark) [[Paper]](https://arxiv.org/abs/2009.05387)
