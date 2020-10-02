@@ -10,6 +10,12 @@ author: '@everyone'
 
 Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository ini dibuat untuk membantu _Researcher_/Mahasiswa yang sedang membuat tugas akhir atau penelitian tentang pemrosesan bahasa alami yang menggunakan Bahasa Indonesia.
 
+# Beginning NLP
+
+## Article
+
+- [Karena Data Gak Mungkin Bohong](https://medium.com/@geovedi/karena-data-gak-mungkin-bohong-a17ff90cef87) by Jim Geovedi (2014)
+
 # Dataset
 Dikelompokkan berdasarkan _task_ NLP
 
