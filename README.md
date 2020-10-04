@@ -38,7 +38,7 @@ Dikelompokkan berdasarkan _task_ NLP
 
 
 ### POSTag (Part Of Speech Tagging)
-- Corpus POSTAG Indonesia (https://bahasa.cs.ui.ac.id/) [[Link]](https://bahasa.cs.ui.ac.id/postag/corpus) [[Paper]](http://bahasa.cs.ui.ac.id/postag/downloads/Designing%20an%20Indonesian%20Part%20of%20speech%20Tagset.pdf)
+- Corpus POSTAG Indonesia (https://bahasa.cs.ui.ac.id/) [[Link]](https://github.com/famrashel/idn-tagged-corpus) [[About]](https://bahasa.cs.ui.ac.id/postag/corpus) [[Paper]](http://bahasa.cs.ui.ac.id/postag/downloads/Designing%20an%20Indonesian%20Part%20of%20speech%20Tagset.pdf)
 - UD_Indonesian-GSD TreeBank [[Link]](https://github.com/UniversalDependencies/UD_Indonesian-GSD) [[About]](https://github.com/UniversalDependencies/UD_Indonesian-GSD)
 
 ### Other
