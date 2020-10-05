@@ -3,7 +3,7 @@
 # this contain metadata to render to website
 # so please don't edit this unless you need to :)
 # https://github.com/jonschlinkert/gray-matter
-title: 'Bahasa Indonesia NLP Resource'
+title: 'Bahasa Indonesia NLP Resources'
 desc: 'Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository ini dibuat untuk membantu _Researcher_/Mahasiswa yang sedang membuat tugas akhir atau penelitian tentang pemrosesan bahasa alami yang menggunakan Bahasa Indonesia.'
 url: 'https://ailabtelkom.github.io/resources/nlp'
 author: '@everyone'
@@ -14,7 +14,7 @@ author: '@everyone'
 
 Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository ini dibuat untuk membantu _Researcher_/Mahasiswa yang sedang membuat tugas akhir atau penelitian tentang pemrosesan bahasa alami yang menggunakan Bahasa Indonesia.
 
-A collection of Natural Language Processing in Bahasa Indonesia. This repository is created to helps reseracher or student who doing task about final thesis or research about natural language processing using Bahasa Indonesia.
+A collection of resources on Natural Language Processing in Bahasa Indonesia. This repository was created to help any researcher or student who is doing tasks related to their final thesis or research about natural language processing using Bahasa Indonesia.
 
 # Beginning NLP
 
@@ -38,8 +38,9 @@ Dikelompokkan berdasarkan _task_ NLP
 
 
 ### POSTag (Part Of Speech Tagging)
-- Corpus POSTAG Indonesia (https://bahasa.cs.ui.ac.id/) [[Link]](https://bahasa.cs.ui.ac.id/postag/corpus) [[Paper]](http://bahasa.cs.ui.ac.id/postag/downloads/Designing%20an%20Indonesian%20Part%20of%20speech%20Tagset.pdf)
+- Corpus POSTAG Indonesia (https://bahasa.cs.ui.ac.id/) [[Link]](https://github.com/famrashel/idn-tagged-corpus) [[About]](https://bahasa.cs.ui.ac.id/postag/corpus) [[Paper]](http://bahasa.cs.ui.ac.id/postag/downloads/Designing%20an%20Indonesian%20Part%20of%20speech%20Tagset.pdf)
 - UD_Indonesian-GSD TreeBank [[Link]](https://github.com/UniversalDependencies/UD_Indonesian-GSD) [[About]](https://github.com/UniversalDependencies/UD_Indonesian-GSD)
+- IndonesianWaC on Sketch Engine [[About]](https://www.sketchengine.eu/indonesianwac-corpus/)
 
 ### Other
 - Hate Speech and Abusive Language [[Link]](https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection) [[Paper]](https://www.aclweb.org/anthology/W19-3506.pdf)
@@ -49,6 +50,7 @@ Dikelompokkan berdasarkan _task_ NLP
 ### Dictionary
 - Kamus Alay (Slang words dictionary) [[Link]](https://github.com/okkyibrohim/id-abusive-language-detection/blob/master/kamusalay.csv)
 - Kamus Kata Bahasa Indonesia KBBI (word list from KBBI) [[Link]](https://github.com/damzaky/kumpulan-kata-bahasa-indonesia-KBBI)
+- SEAlang Library Indonesian Corpus [[Link]](http://sealang.net/indonesia/corpus.htm) [[About]](http://sealang.net/library/)
 
 # Language Model
 - indoBERT [[Link]](https://huggingface.co/indobenchmark) [[Paper]](https://arxiv.org/abs/2009.05387)
